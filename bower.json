@@ -1,0 +1,20 @@
+{
+  "name": "react-native-sample",
+  "description": "React Native Example",
+  "main": "gulpfile.js",
+  "authors": [
+    "Austin"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Testing"
+  ],
+  "homepage": "https://github.com/austinnoronha/react-native-sample",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

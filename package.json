@@ -1,0 +1,28 @@
+{
+  "name": "react-native-sample",
+  "version": "1.0.1",
+  "description": "React Native Example",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinnoronha/react-native-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinnoronha/react-native-sample/issues"
+  },
+  "homepage": "https://github.com/austinnoronha/react-native-sample#readme",
+  "devDependencies": {
+    "conventional-github-releaser": "^2.0.2",
+    "gulp": "^3.9.1",
+    "gulp-bump": "^3.1.0",
+    "gulp-conventional-changelog": "^1.1.19",
+    "gulp-git": "^2.5.2",
+    "gulp-util": "^3.0.8",
+    "run-sequence": "^2.2.1"
+  }
+}
